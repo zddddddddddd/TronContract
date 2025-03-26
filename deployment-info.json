@@ -1,0 +1,13 @@
+{
+  "network": "shasta",
+  "proxy": "TN9EnA57U6uc64U83s3NfYjsdpoGor1jKz",
+  "logic": "TCvBkZqdFQ6gngmQQq7AszJGCoyZrcXTEP",
+  "deployer": "TZCRPZiAPuqgNhVoWjKvpLDV2J9GGRX1L9",
+  "deploymentTime": "2025-03-26T08:49:36.412Z",
+  "tokenInfo": {
+    "name": "TronToken",
+    "symbol": "TTK",
+    "decimals": "18",
+    "totalSupply": "1000000000000000"
+  }
+}
